@@ -1,0 +1,19 @@
+Channel,Campaign,Landing,Product,Cart,Checkout,Purchase,Count
+Organic,SEO_Q2,Homepage,Viewed Product,Added to Cart,Started Checkout,Purchased,350
+Organic,SEO_Q2,Blog Post,Viewed Product,No Cart,No Checkout,Abandoned,200
+Paid Search,Ad_Winter,Ad Landing,Viewed Product,Added to Cart,Started Checkout,Purchased,90
+Paid Search,Ad_Winter,Ad Landing,Viewed Product,Added to Cart,No Checkout,Abandoned,40
+Social,FB_Spring,Ad Landing,Viewed Product,No Cart,No Checkout,Abandoned,150
+Social,FB_Spring,Ad Landing,No Product,No Cart,No Checkout,Abandoned,300
+Email,Newsletter_Jun,Homepage,Viewed Product,Added to Cart,Started Checkout,Purchased,75
+Email,Newsletter_Jun,Homepage,Viewed Product,No Cart,No Checkout,Abandoned,45
+Referral,Partner_Blog,Referral Page,Viewed Product,Added to Cart,Started Checkout,Purchased,30
+Referral,Partner_Blog,Referral Page,Viewed Product,No Cart,No Checkout,Abandoned,60
+Organic,SEO_Q2,Product Page,Viewed Product,Added to Cart,Started Checkout,Purchased,200
+Paid Search,Ad_Summer,Ad Landing,Viewed Product,No Cart,No Checkout,Abandoned,70
+Social,IG_Story,Ad Landing,Viewed Product,Added to Cart,Started Checkout,Abandoned,25
+Paid Search,Ad_Winter,Landing Page,No Product,No Cart,No Checkout,Abandoned,80
+Email,Promo_July,Landing Page,Viewed Product,Added to Cart,No Checkout,Abandoned,40
+Organic,SEO_Q2,Blog Post,No Product,No Cart,No Checkout,Abandoned,90
+Referral,Partner_Podcast,Referral Page,Viewed Product,Added to Cart,No Checkout,Abandoned,15
+Organic,SEO_Q2,Homepage,Viewed Product,Added to Cart,Started Checkout,Abandoned,60
